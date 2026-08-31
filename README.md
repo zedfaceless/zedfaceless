@@ -1,6 +1,6 @@
 # Hi, I'm Zed 👋
 
-I'm **Melchizedek Galvan Fernandez** — a full-stack developer based in the Philippines, currently the **Lead Engineer at Ally Nutra LLC**, where I own a B2B platform end to end (React + TypeScript on Vercel, Supabase with ~150 Deno edge functions, and Twilio/Deepgram/Daily.co integrations).
+I'm **Melchizedek Galvan Fernandez** — a full-stack developer based in the Philippines, a **Senior Full Stack Engineer**, where I own a B2B platform end to end (React + TypeScript on Vercel, Supabase with ~150 Deno edge functions, and Twilio/Deepgram/Daily.co integrations).
 
 I came into software after years in customer service and community leadership, and I love the craft of shipping reliable, secure systems. I'm finishing a Bachelor's in Professional Studies at BYU–Idaho and starting a second degree in Software Development, while continuing to build in production every day.
 
