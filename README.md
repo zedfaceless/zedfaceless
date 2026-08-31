@@ -25,7 +25,7 @@ I'm **Melchizedek Galvan Fernandez** — a full-stack developer based in the Phi
 ## 🚀 Projects & Work
 
 - **Ally Nutra Platform** — Lead engineer on a B2B supplement-manufacturing platform: automated quote-to-qualification flow, lead scoring, email abandonment-recovery sequences, and an AI voice receptionist with per-rep call routing and video scheduling.
-- **[zed-portfolio](https://github.com/zedfaceless/zed-portfolio)** — Personal developer portfolio.
+- **[zed-portfolio](https://zed-portfolio-virid.vercel.app/)** — Personal developer portfolio: eight themes, a 3D avatar, a scripted assistant answering only from verified content, and a contact form on a serverless function. Live link — code private.
 - **[maison-ecommerce](https://github.com/zedfaceless/maison-ecommerce)** — E-commerce build in TypeScript.
 - **[b2b-ecommerce-design](https://github.com/zedfaceless/b2b-ecommerce-design)** — B2B e-commerce interface design.
 - **[sovereign-motors-web](https://github.com/zedfaceless/sovereign-motors-web)** — Automotive web project.
